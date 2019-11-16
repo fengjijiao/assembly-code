@@ -7,16 +7,23 @@
 
 |分类|名称|格式|功能|O S Z A P C|
 |----|----|----|----|----|
-|开环|逻辑左移指令|SHL OPRD,COUNT|逻辑左移（字、字节）|O S Z a P C|
-|移位|算术左移指令|SAL OPRD,COUNT|算术左移（字、字节）|O S Z a P C|
-|指令|逻辑右移指令|SHR OPRD,COUNT|逻辑右移（字、字节）|O S Z a P C|
-|  |算术右移指令|SAR OPRD,COUNT|算术右移（字、字节）|O S Z a P C|
+|开环移位指令|逻辑左移指令|SHL OPRD,COUNT|逻辑左移（字、字节）|O S Z a P C|
+|开环移位指令|算术左移指令|SAL OPRD,COUNT|算术左移（字、字节）|O S Z a P C|
+|开环移位指令|逻辑右移指令|SHR OPRD,COUNT|逻辑右移（字、字节）|O S Z a P C|
+|开环移位指令|算术右移指令|SAR OPRD,COUNT|算术右移（字、字节）|O S Z a P C|
 
 ## 闭环移位指令
 * 含进位的循环左移:RCL    操作数，移位次数  
 * 含进位的循环右移:RCR    操作数，移位次数  
 * 不含进位的循环左移:ROL    操作数，移位次数  
 * 不含进位的循环右移:ROR    操作数，移位次数  
+
+|分类|名称|格式|功能|O S Z A P C|
+|----|----|----|----|----|
+|闭环移位指令|不含进位循环左移指令|ROL OPRD,COUNT|循环左移（字、字节）|O s z a p C|
+|闭环移位指令|不含进位循环右移指令|ROR OPRD,COUNT|循环右移（字、字节）|O s z a p C|
+|闭环移位指令|带进位循环左移指令|RCL OPRD,COUNT|带进位循环左移（字、字节）|O s z a p C|
+|闭环移位指令|带进位循环右移指令|RCR OPRD,COUNT|带进位循环右移（字、字节）|O s z a p C|
 
 ## 区别：  
 ![区别](https://github.com/fengjijiao/assembly-code/raw/master/basic/Shift-class-instruction/difference.png)
