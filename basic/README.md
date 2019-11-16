@@ -1,3 +1,11 @@
 # 目录
-1. [跳转类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Jump-class-instruction)  
-2. [调用类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Call-class-instruction)
+1. [通用传送类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Universal-transfer-class-instruction)  
+2. [堆栈操作类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Stack-operation-class-instruction)  
+3. [加减运算类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Addition-and-subtraction-class-instruction)  
+4. [乘除运算类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Multiplication-and-division-operation-instruction)  
+5. [BCD码调整类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/BCD-code-adjustment-class-instruction)  
+6. [转移类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Jump-class-instruction)  
+7. [调用类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Call-class-instruction)  
+8. [逻辑类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Logic-instruction)  
+9. [移位类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/Shift-class-instruction)  
+10. [串操作类指令](https://github.com/fengjijiao/assembly-code/tree/master/basic/String-operation-instruction)  
