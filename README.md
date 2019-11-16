@@ -1,3 +1,3 @@
 # assembly-code
-## [基本指令集](basic)  
-## [示例](example)  
+## 1.[基本指令集](basic)  
+## 2.[示例](example)  
