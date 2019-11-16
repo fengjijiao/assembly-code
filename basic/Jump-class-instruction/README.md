@@ -14,13 +14,13 @@
 转移范围：转移到代码段的任何位置  
 ### (1)、按标志位的当前状态转移
 设转移地址标号为XYZ  
-`JC        XYZ;当C标志位为1时跳转  
-JNC       XYZ;当C标志位为0时跳转  
-JZ        XYZ;当Z标志位为1时跳转  
-JNZ       XYZ;当Z标志位为0时跳转  
-JS        XYZ;当S标志位为1时跳转  
-JNS       XYZ;当S标志位为0时跳转  
-JP        XYZ;当P标志位为1时跳转  
-JNP       XYZ;当P标志位为0时跳转  
-JO        XYZ;当O标志位为1时跳转  
-JNO       XYZ;当O标志位为0时跳转` 
+      JC        XYZ;当C标志位为1时跳转  
+      JNC       XYZ;当C标志位为0时跳转  
+      JZ        XYZ;当Z标志位为1时跳转  
+      JNZ       XYZ;当Z标志位为0时跳转  
+      JS        XYZ;当S标志位为1时跳转  
+      JNS       XYZ;当S标志位为0时跳转  
+      JP        XYZ;当P标志位为1时跳转  
+      JNP       XYZ;当P标志位为0时跳转  
+      JO        XYZ;当O标志位为1时跳转  
+      JNO       XYZ;当O标志位为0时跳转 
