@@ -4,4 +4,4 @@
 ![截图](https://github.com/fengjijiao/assembly-code/raw/master/example/1.png "截图")
 ## 2.把5个8位二进制数转换成十进制数->屏显
 [点击这里查看源码](https://github.com/fengjijiao/assembly-code/blob/master/example/2.asm)
-![截图](https://github.com/fengjijiao/assembly-code/raw/master/example/2.png "截图")
+未完成(进制转换+屏显)  
