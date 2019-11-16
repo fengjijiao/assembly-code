@@ -10,8 +10,7 @@
 |开环|逻辑左移指令|SHL OPRD,COUNT|逻辑左移（字、字节）|O S Z a P C|
 |移位|算术左移指令|SAL OPRD,COUNT|算术左移（字、字节）|O S Z a P C|
 |指令|逻辑右移指令|SHR OPRD,COUNT|逻辑右移（字、字节）|O S Z a P C|
-|----|算术右移指令|SAR OPRD,COUNT|算术右移（字、字节）|O S Z a P C|
-|----|----|----|----|----|
+|  |算术右移指令|SAR OPRD,COUNT|算术右移（字、字节）|O S Z a P C|
 
 ## 闭环移位指令
 * 含进位的循环左移:RCL    操作数，移位次数  
