@@ -46,3 +46,11 @@ JNG         XYZ;被减数的真值<=减数的真值时跳转
 JL          XYZ;被减数的真值<减数的真值时跳转  
 JNL         XYZ;被减数的真值>=减数的真值时跳转  
 ```
+### (4)、循环控制转移
+```
+LOOP        XYZ;CX=CX-1,结果不为0时跳转  
+LOOPZ       XYZ;CX=CX-1,结果不为0，且Z标志位为1时跳转  
+LOOPNZ      XYZ;CX=CX-1,结果不为0，且Z标志位为0时跳转  
+JCXZ        XYZ;测试CX,若CX=0则跳转  
+JECXZ       XYZ;测试ECX,若ECX=0则跳转  
+```
