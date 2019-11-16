@@ -1,4 +1,4 @@
 # example
 ## 1.某班级40人，某课程考试成绩存放在SCORE开始的内存单元。请统计及格人数->OK单元。
 
-![截图]("https://github.com/fengjijiao/assembly-code/raw/master/example/批注 2019-11-16 155300.png" "截图")
+![截图](https://github.com/fengjijiao/assembly-code/raw/master/example/1.png "截图")
