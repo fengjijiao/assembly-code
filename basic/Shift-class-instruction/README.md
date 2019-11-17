@@ -27,7 +27,7 @@
 |闭环移位指令|带进位循环右移指令|RCR OPRD,COUNT|带进位循环右移（字、字节）|O s z a p C|
 
 注：大写表示受影响  
-## 区别：  
+## 区别  
 ![区别](https://github.com/fengjijiao/assembly-code/raw/master/basic/Shift-class-instruction/difference.png)
 ## 例子
 例如：AL=1110,0010B;CF=0  
