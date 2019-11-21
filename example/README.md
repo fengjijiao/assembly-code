@@ -8,3 +8,6 @@
 ## 3.从键盘键入一个1位加数，一个1位被加数，并将他们的和显示在屏幕上
 [点击这里查看源码](https://github.com/fengjijiao/assembly-code/blob/master/example/3.asm)  
 ![截图](https://github.com/fengjijiao/assembly-code/raw/master/example/3.png "截图")  
+## 4.在屏幕上显示'I AM A STUDENT!'
+[点击这里查看源码](https://github.com/fengjijiao/assembly-code/blob/master/example/4.asm)  
+![截图](https://github.com/fengjijiao/assembly-code/raw/master/example/4.png "截图")  
