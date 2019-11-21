@@ -5,3 +5,5 @@
 ## 2.把5个8位二进制数转换成十进制数->屏显
 [点击这里查看源码](https://github.com/fengjijiao/assembly-code/blob/master/example/2.asm)  
 未完成(进制转换+屏显)  
+## 3.从键盘键入一个1位加数，一个1位被加数，并将他们的和显示在屏幕上
+[点击这里查看源码](https://github.com/fengjijiao/assembly-code/blob/master/example/3.asm)  
