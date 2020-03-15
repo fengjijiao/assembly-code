@@ -1,0 +1,15 @@
+org 30h
+	LOOP:clr P1.0
+	CALL DELAY
+	setb P1.0
+	CALL DELAY
+	jmp LOOP
+	DELAY:
+		mov R0,#04
+	HERE1:mov R1,#255
+	HERE2:mov R2,#255
+	HERE3:DJNZ R2,HERE3
+		DJNZ R1,HERE2
+		DJNZ R0,HERE1
+	ret
+	end
